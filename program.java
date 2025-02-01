@@ -7,7 +7,7 @@ public class program {
         Scanner in = new Scanner(System.in);
         Random r =new Random();
         int no = r.nextInt(100);
-        System.out.println(no);
+        //System.out.println(no); uncomment this to see the random number
 
         System.out.print("Enter a number:");
 
